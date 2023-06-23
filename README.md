@@ -3,7 +3,7 @@
 
 # Black Border Back / White Border Front
 
-	No set symbol
+        No set symbol
 	--------------
  
         	No copyright
