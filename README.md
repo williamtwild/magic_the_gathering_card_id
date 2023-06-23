@@ -11,7 +11,7 @@
 	 
                         [Image](/assets/unlimited.png) Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited  
                         [Image](/assets/revised.png) Flat line inner border, card name between left edge and artwork edge,  
-                                        artist name almost touching bottom border = Revised `#0969DA`
+                                        artist name almost touching bottom border = Revised
 
                 Copyright
       
@@ -21,8 +21,9 @@
                         1997 Copyright = 5th Edition
 
 ### Set symbol exists
- 	
-        VI = Sixth Edition Core  
+ 	| Symbol | Edition |
+  	| --- | --- |
+        | VI  | Sixth Edition Core |  
         7 (with horizontal line) = Seventh Edition Core  
         8 ( in card symbol ) = Eighth Edition Core  
         9 ( in card symbol ) = Ninth Edition Core  
