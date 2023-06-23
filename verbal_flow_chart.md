@@ -1,6 +1,6 @@
 
 
-# Black border back / White border front
+Black border back / White border front
 
   No set symbol
 
@@ -25,7 +25,7 @@
             1995 Copyright, failes the dot test, glows under U/V = Alternate 4th Edition 
             1997 Copyright = 5th Edition
 
-## Set symbol exists
+  Set symbol exists
 
       VI = Sixth Edition Core
       7 (with horizontal line) = Seventh Edition Core
