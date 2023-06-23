@@ -3,7 +3,7 @@
 
     No set symbol
 
-      No copyright
+        No copyright
 
         Small white triangles at corners of black border and card name all the way to the left
                   
@@ -17,7 +17,7 @@
             Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
             Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
 
-    Copyright
+        Copyright
       
             1994 Copyright = Summer Magic
             1995 Copyright = 4th Edition 
