@@ -1,7 +1,7 @@
 ![old cards](/assets/header.png)
 
 
-# Black Border Back 
+# Black Border Back ![](/assets/black_back_50_70.jpg)
 
 ## White Border Front
 
