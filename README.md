@@ -57,5 +57,8 @@ https://alatomtcg.com/blog/commonly-confused-sets
 https://cardmavin.com/mtg/magic-card-set-symbols
 https://scryfall.com/
 
+Including the link below but it has some errors. Be carful using it.
+https://www.reddit.com/r/magicTCG/comments/bsvg6h/an_updated_flowchart_for_identifying_the_set_of_a/
+
 
 
