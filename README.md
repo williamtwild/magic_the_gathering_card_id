@@ -3,10 +3,8 @@
 
 # Black Border Back / White Border Front
 
-        No set symbol
+        ## No set symbol
 	
-        -------------
- 
                 No copyright
 	 
                         [Image](/assets/unlimited.png) Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
