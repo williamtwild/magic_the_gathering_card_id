@@ -1,4 +1,4 @@
-![old cards](/assets/images/header.png)
+![old cards](/assets/header.png)
 
 
 
