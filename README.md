@@ -1,9 +1,11 @@
 ![old cards](/assets/header.png)
 
 
-# Black Border Back / White Border Front
+# Black Border Back 
 
-## No set symbol
+## White Border Front
+
+### No set symbol
 	
                 No copyright
 	 
@@ -18,7 +20,7 @@
                         1995 Copyright, failes the dot test, glows under U/V = Alternate 4th Edition  
                         1997 Copyright = 5th Edition
 
-## Set symbol exists
+### Set symbol exists
  	
         VI = Sixth Edition Core  
         7 (with horizontal line) = Seventh Edition Core  
@@ -38,9 +40,9 @@
                 1993-1999 Copyright with no card number below text box = Battle Royale  
 
     
-# Black Border Back / Black Border Front
+## Black Border Front
 
-## No set symbol and no copyright  
+### No set symbol and no copyright  
  
        
             [Small white triangles](/assets/alpha_beta_triangles.png) at corners of black border and card name all the way to the left  
