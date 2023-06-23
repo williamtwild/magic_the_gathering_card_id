@@ -40,8 +40,8 @@
     
 # Black Border Back / Black Border Front
 
-        No set symbol and No Copyright  
-        ------------------------------  
+## No set symbol and No Copyright  
+ 
        
             Small white triangles at corners of black border and card name all the way to the left  
             Compare corner cuts of card to any card with a set mark.  
