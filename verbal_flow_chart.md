@@ -1,8 +1,8 @@
 
 
-Black border back / White border front
+      Black border back / White border front
 
-      No set symbol possible sets
+      No set symbol
 
             No copyright
 
@@ -29,12 +29,19 @@ Black border back / White border front
 
             VI = Sixth Edition Core
             7 (with horizontal line) = Seventh Edition Core
-            8 (in cards) = Eighth Edition Core
-            9 ( in cards ) = Ninth Edition Core
+            8 ( in card symbol ) = Eighth Edition Core
+            9 ( in card symbol ) = Ninth Edition Core
 
-            Other 
+            Other symbol
 
-                  Anthologies
-                  Chronicles
+                  1995 Copyright with 
+                  
+                        - Arabian Nights (schmitar) 
+                        - Antiquities ( anvil ) 
+                        - The Dark ( moon ) 
+                        - Legends ( upside down cup thing ) = Chronicles
+                        
+                  1993-1998 Copyright = Anthologies
+                  
 
 
