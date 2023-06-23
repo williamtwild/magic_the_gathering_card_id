@@ -11,7 +11,7 @@
 	 
                         [Image](/assets/unlimited.png) Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited  
                         [Image](/assets/revised.png) Flat line inner border, card name between left edge and artwork edge,  
-                                        artist name almost touching bottom border **= Revised**
+                                        artist name almost touching bottom border = Revised `#0969DA`
 
                 Copyright
       
