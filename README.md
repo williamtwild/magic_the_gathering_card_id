@@ -1,7 +1,7 @@
 ![old cards](/assets/header.png)
 
 
-# Black Border Back ![d](/assets/black_back_50_70.jpg)
+# Black Border Back ![magic card with black back border](/assets/black_back_50_70.jpg)
 
 ## White Border Front
 
@@ -60,7 +60,7 @@
 
 
 
-# Gold Border Back 
+# Gold Border Back ![magic card with gold back border](/assets/gold_back_50_70.jpg)
 
         International or Collectors Edition as marked  
 
