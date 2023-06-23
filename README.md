@@ -64,6 +64,10 @@
 
         [International Edition](/assets/intl_edition_back.png) or [Collectors Edition](/assets/collectors_edition_back.png) as marked  
 
+# World Championship Backs ![magic card with world champ back 1](/assets/champ_back_50_70_1.png)   ![magic card with world champ back 2](/assets/champ_back_50_70_2.png) 
+ 
+	World Championship decks 1997, 1998, 1999, 2001
+
 # Information Sources and Links
 
 https://alatomtcg.com/blog/commonly-confused-sets  
