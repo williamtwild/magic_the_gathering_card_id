@@ -28,10 +28,10 @@
         Other symbol  
 
                 1995 Copyright with  
-                        - [Arabin Nights](/assets/symbols/arabian_nights.png)  
-                        - Antiquities ( anvil )  
-                        - The Dark ( moon )  
-                        - Legends ( upside down cup thing ) 
+                        - [Arabin Nights ( scimitar ) ](/assets/symbols/symbol_arabian_nights.png)  
+                        - [Antiquities ( anvil ) ](/assets/symbols/symbol_antiquities.png)  
+                        - [The Dark ( moon ) ](/assets/symbols/symbol_the_dark.png)  
+                        - [ Legends ( upside down cup thing ) ](/assets/symbols/symbol_legends.png)  
 		    = Chronicles  
                   
                 1993-1998 Copyright = Anthologies  
