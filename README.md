@@ -28,7 +28,7 @@
         Other symbol  
 
                 1995 Copyright with  
-                        - Arabian Nights (schmitar)  
+                        - [Arabin Nights](/assets/symbols/arabian_nights.png)  
                         - Antiquities ( anvil )  
                         - The Dark ( moon )  
                         - Legends ( upside down cup thing ) 
