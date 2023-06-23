@@ -8,7 +8,7 @@ Black border back / White border front
 
                   Small white triangles at corners of black border and card name all the way to the left
                         
-                        Copare corner cuts of card to any card with a set mark.
+                        Compare corner cuts of card to any card with a set mark.
                         
                               They don't match = Alpha
                               They do match = Beta
