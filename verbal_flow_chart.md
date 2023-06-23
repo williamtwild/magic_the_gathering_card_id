@@ -5,7 +5,9 @@ Black border back / White border front
       No set symbol possible sets
 
             No copyright
-            
+
+                  Alpha
+                  Beta
                   Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
                   Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
 
