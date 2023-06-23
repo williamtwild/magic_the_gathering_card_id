@@ -6,9 +6,12 @@ Black border back / White border front
 
             No copyright
 
-                  Small white triangles at coernes of black border
-                        Alpha
-                        Beta
+                  Small white triangles at corners of black border and card name all the way to the left
+                        
+                        Copare corner cuts of card to any card with a set mark.
+                        
+                              They don't match = Alpha
+                              They do match = Beta
                         
                   No white trianges
                   
