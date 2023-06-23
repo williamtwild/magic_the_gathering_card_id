@@ -24,11 +24,8 @@
 ## Set symbol exists
  	
         VI = Sixth Edition Core  
-	
         7 (with horizontal line) = Seventh Edition Core  
-	
         8 ( in card symbol ) = Eighth Edition Core  
-	
         9 ( in card symbol ) = Ninth Edition Core  
 	
 
