@@ -1,10 +1,10 @@
 
 
-Black border back / White border front
+# Black border back / White border front
 
-No set symbol
+## No set symbol
 
-      No copyright
+      ### No copyright
 
             Small white triangles at corners of black border and card name all the way to the left
                   
@@ -18,14 +18,14 @@ No set symbol
                   Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
                   Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
 
-      Copyright
+      ### Copyright
       
             1994 Copyright = Summer Magic
             1995 Copyright = 4th Edition 
             1995 Copyright, failes the dot test, glows under U/V = Alternate 4th Edition 
             1997 Copyright = 5th Edition
 
-Set symbol exists
+## Set symbol exists
 
       VI = Sixth Edition Core
       7 (with horizontal line) = Seventh Edition Core
