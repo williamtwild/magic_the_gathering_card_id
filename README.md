@@ -50,3 +50,10 @@
 			They do match = Beta
 
 
+
+# Information Sources and Links
+
+https://alatomtcg.com/blog/commonly-confused-sets
+
+
+
