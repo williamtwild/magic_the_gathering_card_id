@@ -21,11 +21,8 @@
                         1997 Copyright = 5th Edition
 
 ### Set symbol exists
-| Symbol | Edition |
-| --- | --- |
-| VI  | Sixth Edition Core |  
 
-
+	VI = Sixth Edition Core   
         7 (with horizontal line) = Seventh Edition Core  
         8 ( in card symbol ) = Eighth Edition Core  
         9 ( in card symbol ) = Ninth Edition Core  
