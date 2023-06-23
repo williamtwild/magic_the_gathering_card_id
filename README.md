@@ -1,21 +1,17 @@
 ![old cards](/assets/header.png)
 
 
+# Black Border Back / White Border Front
 
-  # Black Border Back / White Border Front
-
-    No set symbol
+	No set symbol
 	--------------
-        No copyright
-
-	          
-	                      
-	            No white trianges
-	                
-	                Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
+ 
+        	No copyright
+	 
+			Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
 	                Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
 
-        Copyright
+        	Copyright
       
 	            1994 Copyright = Summer Magic
 	            1995 Copyright = 4th Edition 
