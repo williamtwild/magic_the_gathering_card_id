@@ -6,10 +6,14 @@ Black border back / White border front
 
             No copyright
 
-                  Alpha
-                  Beta
-                  Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
-                  Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
+                  Small white triangles at coernes of black border
+                        Alpha
+                        Beta
+                        
+                  No white trianges
+                  
+                        Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
+                        Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
 
             Copyright
             
