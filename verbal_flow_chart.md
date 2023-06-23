@@ -6,8 +6,10 @@ Black border back / White border front
 
             Unlimited
             Revised
-            4th Edition
-            5th Edition
+            1994 Copyright = Summer Magic
+            1995 Copyright = 4th Edition 
+            1995 Copyright, failes the dot test, glows under U/V = Alternate 4th Edition 
+            1997 Copyright = 5th Edition
 
       Set symbol exists
 
