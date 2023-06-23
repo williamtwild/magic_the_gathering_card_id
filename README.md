@@ -43,7 +43,7 @@
 ## No set symbol and no copyright  
  
        
-            [Small white triangles](/assets/alpha_beta_triangles.png) at corners of black border and card name all the way to the left  
+            [Small white triangles](/assets/alpha_beta_triangles.jpg) at corners of black border and card name all the way to the left  
             Compare corner cuts of card to any card with a set mark.  
 
                     They don't match = Alpha  
