@@ -59,6 +59,11 @@
             Unstable Dec 2017
 
 
+
+# Gold Border Back 
+
+        International or Collectors Edition as marked  
+
 # Information Sources and Links
 
 https://alatomtcg.com/blog/commonly-confused-sets  
