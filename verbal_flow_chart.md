@@ -41,6 +41,8 @@
 				- Legends ( upside down cup thing ) = Chronicles
                   
 			1993-1998 Copyright = Anthologies
-                  
+			1993-1999 Copyright with no card number below text box = Battle Royale
+
+    
 
 
