@@ -1,24 +1,23 @@
 
+  Black border back / White border front
 
-Black border back / White border front
+    No set symbol
 
-  No set symbol
+      No copyright
 
-    No copyright
-
-      Small white triangles at corners of black border and card name all the way to the left
+        Small white triangles at corners of black border and card name all the way to the left
                   
           Compare corner cuts of card to any card with a set mark.
                   
-###### They don't match = Alpha
-###### They do match = Beta
+            They don't match = Alpha
+            They do match = Beta
                   
-            No white trianges
+        No white trianges
             
-                  Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
-                  Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
+            Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
+            Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
 
-      ### Copyright
+    Copyright
       
             1994 Copyright = Summer Magic
             1995 Copyright = 4th Edition 
