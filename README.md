@@ -8,12 +8,7 @@
 	--------------
         No copyright
 
-	            Small white triangles at corners of black border and card name all the way to the left
-	                      
-	        	Compare corner cuts of card to any card with a set mark.
-	                      
-	                	They don't match = Alpha
-	                	They do match = Beta
+	          
 	                      
 	            No white trianges
 	                
@@ -47,5 +42,15 @@
 			1993-1999 Copyright with no card number below text box = Battle Royale
 
     
+# Black Border Back / Black Border Front
+
+	No set symbol and No Copyright
+	------------------------------
+       
+	Small white triangles at corners of black border and card name all the way to the left
+	Compare corner cuts of card to any card with a set mark.
+	      
+		They don't match = Alpha
+		They do match = Beta
 
 
