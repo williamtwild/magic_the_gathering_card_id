@@ -21,24 +21,24 @@
 		    
                         1997 Copyright = 5th Edition
 
-	Set symbol exists
- 	------------------
+## Set symbol exists
+ 	
+        VI = Sixth Edition Core
+        7 (with horizontal line) = Seventh Edition Core
+        8 ( in card symbol ) = Eighth Edition Core
+        9 ( in card symbol ) = Ninth Edition Core
 
-		VI = Sixth Edition Core
-		7 (with horizontal line) = Seventh Edition Core
-		8 ( in card symbol ) = Eighth Edition Core
-		9 ( in card symbol ) = Ninth Edition Core
+        Other symbol
 
-		Other symbol
-
-			1995 Copyright with 
-				- Arabian Nights (schmitar) 
-				- Antiquities ( anvil ) 
-				- The Dark ( moon ) 
-				- Legends ( upside down cup thing ) = Chronicles
+                1995 Copyright with 
+		
+                    - Arabian Nights (schmitar) 
+                    - Antiquities ( anvil ) 
+                    - The Dark ( moon ) 
+                    - Legends ( upside down cup thing ) = Chronicles
                   
-			1993-1998 Copyright = Anthologies
-			1993-1999 Copyright with no card number below text box = Battle Royale
+                1993-1998 Copyright = Anthologies
+                1993-1999 Copyright with no card number below text box = Battle Royale
 
     
 # Black Border Back / Black Border Front
