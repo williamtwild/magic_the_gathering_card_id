@@ -2,7 +2,7 @@
 
 
 
-  # Black border back / White border front
+  # Black Border Back / White Border Front
 
     No set symbol
 	--------------
