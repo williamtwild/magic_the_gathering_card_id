@@ -54,9 +54,9 @@
 ## Silver Border Front
 
         All Un-Series  
-            Unglued Aug 1998  
-            Unhinged Nov 2004  
-            Unstable Dec 2017
+                Unglued Aug 1998  
+                Unhinged Nov 2004  
+                Unstable Dec 2017
 
 
 
