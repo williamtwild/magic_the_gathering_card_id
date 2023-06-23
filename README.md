@@ -22,7 +22,7 @@
 
 ### Set symbol exists
 
-        VI ( 6 in roman numerals ) = Sixth Edition Core   
+        VI ( [6 in roman numerals](/assets/symbols/symbol_oncard_sixth.png) ) = Sixth Edition Core   
         7 (with horizontal line) = Seventh Edition Core  
         8 ( in card symbol ) = Eighth Edition Core  
         9 ( in card symbol ) = Ninth Edition Core  
