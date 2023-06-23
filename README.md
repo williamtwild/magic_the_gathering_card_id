@@ -66,7 +66,7 @@
 
 # World Championship Backs ![magic card with world champ back 1](/assets/champ_back_50_70_1.png)   ![magic card with world champ back 2](/assets/champ_back_50_70_2.png) 
  
-	World Championship decks 1997, 1998, 1999, 2001
+        World Championship decks 1997, 1998, 1999, 2001
 
 # Information Sources and Links
 
