@@ -27,10 +27,11 @@
         Other symbol  
 
                 1995 Copyright with  
-                    - Arabian Nights (schmitar)  
-                    - Antiquities ( anvil )  
-                    - The Dark ( moon )  
-                    - Legends ( upside down cup thing ) = Chronicles  
+                        - Arabian Nights (schmitar)  
+                        - Antiquities ( anvil )  
+                        - The Dark ( moon )  
+                        - Legends ( upside down cup thing ) 
+		    = Chronicles  
                   
                 1993-1998 Copyright = Anthologies  
                 1993-1999 Copyright with no card number below text box = Battle Royale  
