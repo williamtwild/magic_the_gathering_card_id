@@ -55,6 +55,7 @@
 
 https://alatomtcg.com/blog/commonly-confused-sets  
 https://cardmavin.com/mtg/magic-card-set-symbols
+https://scryfall.com/
 
 
 
