@@ -42,11 +42,11 @@
         No set symbol and No Copyright  
         ------------------------------  
        
-            Small white triangles at corners of black border and card name all the way to the left
-            Compare corner cuts of card to any card with a set mark.
+            Small white triangles at corners of black border and card name all the way to the left  
+            Compare corner cuts of card to any card with a set mark.  
 
-                    They don't match = Alpha
-                    They do match = Beta
+                    They don't match = Alpha  
+                    They do match = Beta  
 
 
 
