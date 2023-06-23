@@ -24,7 +24,7 @@
 
         VI ( [6 in roman numerals](/assets/symbols/symbol_oncard_sixth.png) ) = Sixth Edition Core   
         7 ( [with horizontal line](/assets/symbols/symbol_oncard_seventh.png) ) = Seventh Edition Core  
-        8 ( [in card symbol](/assets/symbols/symbol_oncard_eigthth.png) ) = Eighth Edition Core  
+        8 ( [in card symbol](/assets/symbols/symbol_oncard_eight.png) ) = Eighth Edition Core  
         9 ( [in card symbol](/assets/symbols/symbol_oncard_ninth.png) ) = Ninth Edition Core  
 	
         Other symbol  
