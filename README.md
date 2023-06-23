@@ -32,7 +32,7 @@
                         - [Antiquities ( anvil ) ](/assets/symbols/symbol_antiquities.png)  
                         - [The Dark ( moon ) ](/assets/symbols/symbol_the_dark.png)  
                         - [ Legends ( broken top of column ) ](/assets/symbols/symbol_legends.png)  
-		    = Chronicles  
+                                = Chronicles  
                   
                 1993-1998 Copyright = Anthologies  
                 1993-1999 Copyright with no card number below text box = Battle Royale  
