@@ -75,4 +75,7 @@ Including the link below but it has some errors. Be carful using it.
 https://www.reddit.com/r/magicTCG/comments/bsvg6h/an_updated_flowchart_for_identifying_the_set_of_a/
 
 
+[Cardboard Redux] is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC
+
+
 
