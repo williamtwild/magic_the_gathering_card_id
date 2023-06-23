@@ -71,11 +71,11 @@
 # Information Sources and Links
 
 https://alatomtcg.com/blog/commonly-confused-sets  
-https://cardmavin.com/mtg/magic-card-set-symbols
-https://scryfall.com/
-https://en.wikipedia.org/wiki/Magic:_The_Gathering
+https://cardmavin.com/mtg/magic-card-set-symbols  
+https://scryfall.com/  
+https://en.wikipedia.org/wiki/Magic:_The_Gathering  
 
-Including the link below but it has some errors. Be carful using it.
+Including the link below but it has some errors. Be carful using it.  
 https://www.reddit.com/r/magicTCG/comments/bsvg6h/an_updated_flowchart_for_identifying_the_set_of_a/
 
 
