@@ -31,7 +31,7 @@
                         - [Arabin Nights ( scimitar ) ](/assets/symbols/symbol_arabian_nights.png)  
                         - [Antiquities ( anvil ) ](/assets/symbols/symbol_antiquities.png)  
                         - [The Dark ( moon ) ](/assets/symbols/symbol_the_dark.png)  
-                        - [ Legends ( broken top of column ) ](/assets/symbols/symbol_legends.png)  
+                        - [Legends ( broken top of column ) ](/assets/symbols/symbol_legends.png)  
                                 = Chronicles  
                   
                 1993-1998 Copyright = Anthologies  
@@ -43,7 +43,7 @@
 ## No set symbol and no copyright  
  
        
-            Small white triangles at corners of black border and card name all the way to the left  
+            [Small white triangles](/assets/alpha_beta_triangles.png) at corners of black border and card name all the way to the left  
             Compare corner cuts of card to any card with a set mark.  
 
                     They don't match = Alpha  
