@@ -62,7 +62,7 @@
 
 # Gold Border Back ![magic card with gold back border](/assets/gold_back_50_70.jpg)
 
-        International or Collectors Edition as marked  
+        [International Edition](/assets/intl_edition_back.png) or [Collectors Edition](/assets/collectors_edition_back.png) as marked  
 
 # Information Sources and Links
 
