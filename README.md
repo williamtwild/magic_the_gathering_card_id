@@ -40,7 +40,7 @@
     
 # Black Border Back / Black Border Front
 
-## No set symbol and No Copyright  
+## No set symbol and no copyright  
  
        
             Small white triangles at corners of black border and card name all the way to the left  
