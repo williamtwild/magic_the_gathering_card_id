@@ -4,12 +4,17 @@ Black border back / White border front
 
       No set symbol possible sets
 
-            Unlimited
-            Revised
-            1994 Copyright = Summer Magic
-            1995 Copyright = 4th Edition 
-            1995 Copyright, failes the dot test, glows under U/V = Alternate 4th Edition 
-            1997 Copyright = 5th Edition
+            No copyright
+            
+                  Beveled inner border, card name almost to left edge, artist name horiz centered  = Unlimited 
+                  Flat line inner border, card name between left edge and artwork edge, artist name almost touching bottom border = Revised
+
+            Copyright
+            
+                  1994 Copyright = Summer Magic
+                  1995 Copyright = 4th Edition 
+                  1995 Copyright, failes the dot test, glows under U/V = Alternate 4th Edition 
+                  1997 Copyright = 5th Edition
 
       Set symbol exists
 
