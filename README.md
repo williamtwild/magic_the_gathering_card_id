@@ -74,6 +74,7 @@ https://alatomtcg.com/blog/commonly-confused-sets
 https://cardmavin.com/mtg/magic-card-set-symbols  
 https://scryfall.com/  
 https://en.wikipedia.org/wiki/Magic:_The_Gathering  
+https://mtg.fandom.com/wiki/Main_Page
 
 Including the link below but it has some errors. If you use this you must check other sources. Example error is the 1993-1998 white border Portal Second Age symbol is not portal second age. They are anthologies. Portal SE set was only printed with black borders.   
 https://www.reddit.com/r/magicTCG/comments/bsvg6h/an_updated_flowchart_for_identifying_the_set_of_a/
