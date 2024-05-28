@@ -15,7 +15,7 @@
                                         artist name almost touching bottom border = Revised
 
                 Copyright
-      
+      			1993-2000 Centered = Starter 2000
                         1994 Copyright = Summer Magic  
                         1995 Copyright = 4th Edition  
                         1995 Copyright, fails the dot test, does not glow under U/V = Alternate 4th Edition  
@@ -27,6 +27,7 @@
         7 ( [with horizontal line](/assets/symbols/symbol_oncard_seventh.png) ) = Seventh Edition Core  
         8 ( [in card symbol](/assets/symbols/symbol_oncard_eight.png) ) = Eighth Edition Core  
         9 ( [in card symbol](/assets/symbols/symbol_oncard_ninth.png) ) = Ninth Edition Core  
+	Black Star ( [in card symbol](/assets/symbols/symbol_oncard_starter_1999.png) ) = Starter 1999
 	
         Other symbol  
 
