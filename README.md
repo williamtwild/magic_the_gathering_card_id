@@ -14,8 +14,8 @@
                         [Image](/assets/revised.png) Flat line inner border, card name between left edge and artwork edge,  
                                         artist name almost touching bottom border = Revised
 
-                Copyright
-      			1993-2000 Centered = Starter 2000
+                Copyright  
+                        1993-2000 Centered = Starter 2000  
                         1994 Copyright = Summer Magic  
                         1995 Copyright = 4th Edition  
                         1995 Copyright, fails the dot test, does not glow under U/V = Alternate 4th Edition  
